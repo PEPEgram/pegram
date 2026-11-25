@@ -547,7 +547,7 @@
             </intent-filter>
         </service>
         <service
-            android:name=".voip.TelegramConnectionService"
+            android:name=".voip.Pepe GramConnectionService"
             android:permission="android.permission.BIND_TELECOM_CONNECTION_SERVICE"
             android:exported="true"
             android:foregroundServiceType="dataSync"
@@ -696,7 +696,7 @@
         <meta-data android:name="com.google.android.gms.car.application" android:resource="@xml/automotive_app_desc" />
 
         <service
-            android:name="org.telegram.messenger.car.TelegramCarAppService"
+            android:name="org.telegram.messenger.car.Pepe GramCarAppService"
             android:exported="true"
             android:foregroundServiceType="connectedDevice">
             <intent-filter>
